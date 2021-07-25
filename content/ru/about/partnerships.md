@@ -2,7 +2,7 @@
 title: "Партнерства"
 description: "Google, РБК, SAS"
 date: 2021-03-25
-draft: false
+draft: true
 images: []
 slug: our-partnerships
 ---
